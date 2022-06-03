@@ -1,2 +1,2 @@
 # my-data-forest
-Sharing analysis in Jupyter notebook to Pipedrive data team, click on notebook above
+Sharing analysis in Jupyter notebook to data team, click on notebook above
